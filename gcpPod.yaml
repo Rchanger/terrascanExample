@@ -22,4 +22,3 @@ spec:
             - version
             periodSeconds: 10
             initialDelaySeconds: 10
-            #
